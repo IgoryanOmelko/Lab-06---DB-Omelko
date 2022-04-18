@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 06 - SQLlite Omelko</string>
+    <string name="textviewContent">Content</string>
+    <string name="textviewKey">Key</string>
+    <string name="buttonInsert">Insert</string>
+    <string name="buttonUpdate">Update</string>
+    <string name="buttonSelect">Select</string>
+    <string name="buttonDelete">Delete</string>
+    <string name="buttonOk">ok</string>
+    <string name="buttonCancel">cancel</string>
+    <string name="dialogTitle">Attention!</string>
+    <string name="dialogDelete">Delete this record?</string>
+    <string name="Errormes">(!) not found</string>
+</resources>
